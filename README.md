@@ -33,3 +33,5 @@ where begin and end are used to limit the range of fault simulation results. The
 · boost 1.84.0
 
 · x86-64
+
+· python 3.10.12
