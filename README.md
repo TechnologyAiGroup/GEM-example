@@ -26,3 +26,10 @@ python predicting.py
 
 where begin and end are used to limit the range of fault simulation results. The folder x_ans is then generated, where the .out file is the final diagnostic result.
 
+## Environment
+
+· C++17
+
+· boost 1.84.0
+
+· x86-64
