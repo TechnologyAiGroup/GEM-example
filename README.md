@@ -28,9 +28,7 @@ where begin and end are used to limit the range of fault simulation results. The
 
 ## Environment
 
-· C++17
-
-· boost 1.84.0
+· gcc 11.4.0 Ubuntu 22.04
 
 · x86-64
 
